@@ -1,0 +1,6 @@
+{
+  "name": "Papersquare - Publishing Estimate Generator",
+  "description": "Professional estimate billing workflow and WhatsApp-ready quote generator for Papersquare Self Publishing Co.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
